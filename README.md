@@ -21,7 +21,6 @@ Everything was developed following industry-standard practices: thorough EDA, ad
 **Live Demo**: [Open in Google Colab](https://colab.research.google.com/github/yumna-prog/Customer-Churn-Prediction/blob/main/CustomerChurnPreduiction.ipynb)  
 
 ---
-
 ## 🎯 Key Highlights
 
 - ✅ Comprehensive **Exploratory Data Analysis** with insightful visualizations  
@@ -31,6 +30,7 @@ Everything was developed following industry-standard practices: thorough EDA, ad
 - ✅ **Neural Network outperformed** the Decision Tree   
 - ✅ Full source code in appendix + Git-tracked development
 
+----
 ## 📊 Dataset
 
 - **Name**: Telco Customer Churn  
@@ -51,8 +51,7 @@ Everything was developed following industry-standard practices: thorough EDA, ad
 | Evaluation         | Scikit-learn metrics |
 | Environment        | Google Colab, Git |
 
----         
-
+---       
 ## 🚀 How to Run
 
 1. Clone the repo:
